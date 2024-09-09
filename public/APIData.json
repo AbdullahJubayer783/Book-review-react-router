@@ -1,0 +1,80 @@
+[
+    {
+      "bookId": "1",
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "../src/assets/pngwing 1.png",
+      "review": "A thrilling psychological suspense novel with unexpected twists.",
+      "totalPages": 336,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": "2",
+      "bookName": "Educated",
+      "author": "Tara Westover",
+      "image": "../src/assets/pngwing 1.png",
+      "review": "A powerful memoir about growing up in a strict and abusive household in rural Idaho but eventually escaping through education.",
+      "totalPages": 334,
+      "rating": 9,
+      "category": "Memoir",
+      "tags": ["Biography", "Inspiration"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": "3",
+      "bookName": "Becoming",
+      "author": "Michelle Obama",
+      "image": "../src/assets/pngwing 1.png",
+      "review": "A deeply personal memoir from the former First Lady of the United States, reflecting on her life and achievements.",
+      "totalPages": 448,
+      "rating": 4.8,
+      "category": "Memoir",
+      "tags": ["Biography", "Politics", "Inspiration"],
+      "publisher": "Crown Publishing Group",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": "4",
+      "bookName": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "image": "../src/assets/pngwing 1.png",
+      "review": "A moving story blending mystery, coming-of-age, and romance in the backdrop of the Carolina marshlands.",
+      "totalPages": 384,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Mystery", "Romance"],
+      "publisher": "G.P. Putnam's Sons",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": "5",
+      "bookName": "Atomic Habits",
+      "author": "James Clear",
+      "image": "../src/assets/pngwing 1.png",
+      "review": "An insightful guide to building good habits and breaking bad ones with simple, actionable steps.",
+      "totalPages": 320,
+      "rating": 7,
+      "category": "Self-Help",
+      "tags": ["Productivity", "Motivation", "Psychology"],
+      "publisher": "Avery",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": "6",
+      "bookName": "The Midnight Library",
+      "author": "Matt Haig",
+      "image": "../src/assets/pngwing 1.png",
+      "review": "A thought-provoking novel exploring choices, regrets, and alternate lives through a magical library.",
+      "totalPages": 304,
+      "rating": 4.2,
+      "category": "Fiction",
+      "tags": ["Fantasy", "Philosophical", "Drama"],
+      "publisher": "Canongate Books",
+      "yearOfPublishing": 2020
+    }
+]
